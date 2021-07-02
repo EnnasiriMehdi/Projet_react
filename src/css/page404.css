@@ -1,0 +1,14 @@
+#page404{
+    background-color: grey;
+    color: red;
+    height: 100vh;
+    text-align: center;
+    display: table-cell;
+    width: 100vw;
+    vertical-align: middle;
+}
+
+
+#page404 h2{
+
+}
